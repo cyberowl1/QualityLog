@@ -1,0 +1,6 @@
+2024-05-13 23:29:45,372 - INFO - {"level": "info", "log_string": "This is an informational message", "timestamp": "2024-05-13T17:59:45Z", "metadata": {"source": "log1.log"}}
+2024-05-13 23:34:08,120 - INFO - {"level": "info", "log_string": "This is an informational message", "timestamp": "2024-05-13T18:04:08Z", "metadata": {"source": "log1.log"}}
+2024-05-13 23:34:12,125 - INFO - {"level": "info", "log_string": "This is an informational message", "timestamp": "2024-05-13T18:04:12Z", "metadata": {"source": "log1.log"}}
+2024-05-13 23:34:38,947 - INFO - {"level": "info", "log_string": "This is an informational message", "timestamp": "2024-05-13T18:04:38Z", "metadata": {"source": "log1.log"}}
+2024-05-13 23:50:45,386 - INFO - {"level": "info", "log_string": "This is an informational message", "timestamp": "2024-05-13T18:20:45Z", "metadata": {"source": "log1.log"}}
+2024-05-14 14:15:51,872 - INFO - {"level": "info", "log_string": "This is errpr", "timestamp": "2024-05-14T08:45:51Z", "metadata": {"source": "log1.log"}}

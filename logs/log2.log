@@ -1,0 +1,5 @@
+2024-05-13 23:29:45,373 - INFO - {"level": "error", "log_string": "This is an error message", "timestamp": "2024-05-13T17:59:45Z", "metadata": {"source": "log2.log"}}
+2024-05-13 23:34:08,122 - INFO - {"level": "error", "log_string": "This is an error message", "timestamp": "2024-05-13T18:04:08Z", "metadata": {"source": "log2.log"}}
+2024-05-13 23:34:12,126 - INFO - {"level": "error", "log_string": "This is an error message", "timestamp": "2024-05-13T18:04:12Z", "metadata": {"source": "log2.log"}}
+2024-05-13 23:34:38,948 - INFO - {"level": "error", "log_string": "This is an error message", "timestamp": "2024-05-13T18:04:38Z", "metadata": {"source": "log2.log"}}
+2024-05-13 23:50:45,387 - INFO - {"level": "error", "log_string": "This is an error message", "timestamp": "2024-05-13T18:20:45Z", "metadata": {"source": "log2.log"}}
