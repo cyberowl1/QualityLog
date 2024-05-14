@@ -1,5 +1,8 @@
 # QualityLog
 
+
+Install requirements file using python pip
+
 1. Logger.py
    Run this using command python3 logger.py
    Send Post request with log data to save log entries.
